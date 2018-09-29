@@ -1,0 +1,17 @@
+[
+{
+    "modid": "inventory-tweaks-fairplay",
+    "name": "Inventory Tweaks FP",
+    "description": "Tweaks to inventory handling for ease of use.",
+    "mcversion": "1.7.10",
+    "version": "1.58-FP",
+    "url": "https://github.com/Kobata/inventory-tweaks",
+    "authorList": [
+        "Jimeo Wan",
+        "Kobata",
+        "Flerpharos"
+    ],
+    "credits": "By Jimeo Wan, updated for Forge by Kobata.\n Made Fairplay for LOTR ToS by Flerpharos.",
+    "logoFile": "/invtweaks.png"
+}
+]
