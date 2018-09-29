@@ -1,0 +1,40 @@
+# Builds & binaries
+build/
+run/
+bin/
+target/
+lib/
+invtweaks_docs/_build
+launcher/
+.gradle/
+*.zip
+*.jar
+
+# Tmp files
+*~
+*#
+
+# IDEs
+.classpath
+.project
+.settings
+.pydevproject
+.idea/
+*.iml
+
+# MCP Files
+docs/
+conf/
+eclipse/
+jars/
+logs/
+runtime/
+temp/
+reobf/
+CHANGELOG
+LICENSE.txt
+*.bat
+*.sh
+
+# Misc
+*.rej
