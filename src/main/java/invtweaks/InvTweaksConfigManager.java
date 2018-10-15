@@ -84,7 +84,7 @@ public class InvTweaksConfigManager {
 
         // Ensure the config folder exists
         File configDir = InvTweaksConst.MINECRAFT_CONFIG_DIR;
-        if(!configDir.exists()) {
+        if(configDir.exists()) {
             configDir.mkdir();
         }
 
